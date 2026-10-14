@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ad-services-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <attribution allow_attribution="false" />
+    <topics allow_topics="false" />
+    <custom-audiences allow_custom_audiences="false" />
+    <ad-selection allow_ad_selection="false" />
+</ad-services-config>

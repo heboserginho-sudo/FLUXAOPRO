@@ -1,0 +1,6 @@
+{
+  "name": "FluxoAO Free",
+  "description": "FluxAO - Gestão Financeira, Fluxo de Caixa e Orçamentos com Engenharia de Custos e Multicaixa Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
